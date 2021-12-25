@@ -1,0 +1,6 @@
+print("Merhaba")
+print("Benim adım Eren senin ki?")
+ad=input("Adın: ")
+print("Merhaba", ad)
+yas=input("Yaşın: ")
+print(ad,"hosgeldin,duyduğuma göre",yas, "yaşındasın")
